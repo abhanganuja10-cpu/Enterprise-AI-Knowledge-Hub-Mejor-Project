@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Chroma Database
+chroma_db/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
